@@ -5,8 +5,9 @@ Hi 👋 Welcome to trustlelab's Profile!
 - Python, Ruby, Javascript, Typescript .Net
 - Node.js, Django, Flask, FastAPI, React, Next, Vue
 - Docker, Kuberctl, Ubuntu, Debian, CentOs, KaliOs, Hosting, 
-- Ecommerce, Wordpress, Zoho, Hubspot, CRM
+- Ecommerce, Wordpress, Zoho, Hubspot, CRM, Zapier
 - AI Agent, Natural Language Processing, LLM, OpenAI, Llama, VectorDB
+- Data Mining, Scraping, Automation, Analytics, Data processing
   
 ```mermaid
 journey

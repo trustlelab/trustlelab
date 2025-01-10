@@ -1,4 +1,10 @@
 Hi 👋 Welcome to trustlelab's Profile!
+Software Engineer 
+- Python, Ruby, Javascript, Typescript .Net
+- Node.js, Django, Flask, FastAPI, React, Next, Vue
+- Docker, Kuberctl, Ubuntu, Debian, CentOs, Hosting
+- Ecommerce, Wordpress, Zoho, Hubspot, CRM
+  
 ```mermaid
 journey
   title My working day

@@ -13,4 +13,5 @@ journey
     Sleeping: 3: Me
 ```
 📫 How to reach me: 
-Email : yourbestfriend@trustle.one
+Email : trustlelab@gmail.com
+

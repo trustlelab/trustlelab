@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**trustlelab/trustlelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋 Welcome to trustlelab's Profile!
+```mermaid
+journey
+  title My working day
+  section With my laptop
+    Make tea: 5: Me
+    Go to laptop: 3 : Me
+    Start Coding: 2: Me, Laptop
+    Bug: 0: Me, Laptop
+    Completed: 7: Me, Laptop
+  section With my bed
+    Go Bed: 5: Me
+    Sleeping: 3: Me
+```

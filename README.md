@@ -6,8 +6,8 @@ Hi 👋 Welcome to trustlelab's Profile!
 - Node.js, Django, Flask, FastAPI, React, Next, Vue
 - Docker, Kuberctl, Ubuntu, Debian, CentOs, KaliOs, Hosting, 
 - Ecommerce, Wordpress, Zoho, Hubspot, CRM, Zapier
-- AI Agent, Natural Language Processing, LLM, OpenAI, Llama, VectorDB, Langchain, llamaindex, Ollama
-- Data Mining, Scraping, Automation, Analytics, Data processing
+- AI Agent, Vapi, RetellAI, BlandAI, NLP, LLM, OpenAI, Llama, VectorDB, Langchain, llamaindex, Ollama
+- Data Mining, Scraping, Automation, Analytics, Data processing, Proxy, Bypassing
   
 ```mermaid
 journey

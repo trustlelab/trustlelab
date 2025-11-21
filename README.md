@@ -2,7 +2,7 @@ Hi 👋 Welcome to trustlelab's Profile!
 
 ## Software Engineer 
 
-- Python, PHP, Java, Ruby, Javascript, Typescript, .Net, Dart, Golang, Rust
+- Javascript, Typescript, Python, PHP, Golang, Rust
 - Node.js, Django, Flask, FastAPI, React, Next, Vue
 - Docker, Kuberctl, Ubuntu, Debian, CentOs, KaliOs, Hosting, 
 - Ecommerce, Wordpress, Wordpress plugin, Zoho, Hubspot, CRM, Zapier

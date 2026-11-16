@@ -4,10 +4,9 @@ Hi 👋 Welcome to trustlelab's Profile!
 
 - Python, Go, Javascript, Typescript, PHP, Rust
 - Node.js, Django, Flask, FastAPI, React, Next, Vue
-- Docker, Kuberctl, Ubuntu, Debian, CentOs, KaliOs, Hosting, 
-- Ecommerce, Wordpress, Wordpress plugin, Zoho, Hubspot, CRM, Zapier
-- AI Agent, Vapi, RetellAI, BlandAI, NLP, LLM, OpenAI, Llama, VectorDB, Langchain, llamaindex, Ollama
-- Data Mining, Scraping, Automation, Analytics, Data processing, Proxy, Bypassing
+- Docker, Kuberctl, Ubuntu, Debian, CentOs, Hosting, Terraform, Pulumi
+- AI Agent, NLP, LLM, OpenAI, Claude, Llama, VectorDB, Langchain, LangGraph, llamaindex, Ollama
+- Data Mining, Databricks, Microsoft Fabric, Scraping, Automation, Analytics, Data processing, Proxy, Bypassing
   
 ```mermaid
 journey
